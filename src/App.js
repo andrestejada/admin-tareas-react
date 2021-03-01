@@ -24,7 +24,7 @@ function App() {
          <AuthState>
             <Router>
               <Switch>
-                <Route exact path="/" component={Login} />
+                <Route exact path="/admin-tareas-react" component={Login} />
                 <Route exact path='/nuevacuenta' component={NuevaCuenta}/>
                 <RutaPrivada exact path='/proyectos' component={Proyectos} />
               </Switch>
