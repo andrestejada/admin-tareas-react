@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/admin-tareas-react/static/css/main.502d58c3.chunk.css",
-    "main.js": "/admin-tareas-react/static/js/main.a4e99e54.chunk.js",
-    "main.js.map": "/admin-tareas-react/static/js/main.a4e99e54.chunk.js.map",
+    "main.js": "/admin-tareas-react/static/js/main.d77fd0e6.chunk.js",
+    "main.js.map": "/admin-tareas-react/static/js/main.d77fd0e6.chunk.js.map",
     "runtime-main.js": "/admin-tareas-react/static/js/runtime-main.42ef38e3.js",
     "runtime-main.js.map": "/admin-tareas-react/static/js/runtime-main.42ef38e3.js.map",
     "static/js/2.dc16aa3b.chunk.js": "/admin-tareas-react/static/js/2.dc16aa3b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.42ef38e3.js",
     "static/js/2.dc16aa3b.chunk.js",
     "static/css/main.502d58c3.chunk.css",
-    "static/js/main.a4e99e54.chunk.js"
+    "static/js/main.d77fd0e6.chunk.js"
   ]
 }
