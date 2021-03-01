@@ -128,7 +128,7 @@ const NuevaCuenta = (props) => {
                     </div>
 
                 </form>
-                <Link to={'/'} className='enlace-cuenta' >Regresar a Iniciar Sesión </Link>
+                <Link to={'/admin-tareas-react'} className='enlace-cuenta' >Regresar a Iniciar Sesión </Link>
             </div>
         </div>
      );

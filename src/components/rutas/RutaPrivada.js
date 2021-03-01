@@ -12,7 +12,7 @@ const RutaPrivada = ({component:Component,...props}) => {
     },[])
     
     return ( 
-        <Route {...props} render={props=> !autenticado&& !cargando ? <Redirect to='/' /> :<Component {...props} /> } />
+        <Route {...props} render={props=> !autenticado&& !cargando ? <Redirect to='/admin-tareas-react' /> :<Component {...props} /> } />
      );
 }
  
